@@ -105,6 +105,7 @@ if (window.localStorage.getItem('lang') == "cn") {
                         <a class="dropdown-item" href="example.html" onclick="window.location.reload();">参考代码</a>
                         <a class="dropdown-item" href="signature.html" onclick="window.location.reload();">签名测试</a>
                         <a class="dropdown-item" href="update.html" onclick="window.location.reload();">更新纪录</a>
+                        <a class="dropdown-item" href="https://drive.google.com/drive/u/1/folders/1RhZ5g1qgIJnHmygk8D_-zbJyPxOVRiZr" onclick="window.location.reload();">下载区</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -201,6 +202,7 @@ if (window.localStorage.getItem('lang') == "cn") {
                         <a class="dropdown-item" href="example.html" onclick="window.location.reload();">Reference Code</a>
                         <a class="dropdown-item" href="signature.html" onclick="window.location.reload();">Signature test</a>
                         <a class="dropdown-item" href="update.html" onclick="window.location.reload();">Update history</a>
+                        <a class="dropdown-item" href="https://drive.google.com/drive/u/1/folders/1RhZ5g1qgIJnHmygk8D_-zbJyPxOVRiZr" onclick="window.location.reload();">Download</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
